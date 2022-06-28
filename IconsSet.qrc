@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Pt.png</file>
+        <file>Images/model.png</file>
+        <file>Images/models.png</file>
+        <file>Images/cloud2img.png</file>
+        <file>Images/viewBack.png</file>
+        <file>Images/viewBottom.png</file>
+        <file>Images/viewFront.png</file>
+        <file>Images/viewLeft.png</file>
+        <file>Images/viewRight.png</file>
+        <file>Images/viewTop.png</file>
+        <file>Images/suit.png</file>
+        <file>Images/startimg.png</file>
+        <file>Images/closeshader.png</file>
+        <file>Images/setshader1.png</file>
+        <file>Images/setshader2.png</file>
+        <file>Images/camera.png</file>
+        <file>Images/color.png</file>
+        <file>Images/color2color.png</file>
+        <file>Images/color2colorbar.png</file>
+        <file>Images/measure.png</file>
+        <file>Images/point.png</file>
+        <file>Images/pointer.png</file>
+        <file>Images/line.png</file>
+        <file>Images/triangle.png</file>
+        <file>Images/close.png</file>
+        <file>Images/grid.png</file>
+        <file>Images/SOR.png</file>
+        <file>Images/mesh.png</file>
+        <file>Images/savetxt.png</file>
+        <file>Images/pointf5.png</file>
+    </qresource>
+</RCC>
